@@ -1,0 +1,2 @@
+Prefix plugins/HeterogeneousXML/example/
+Plugin HeterogeneousXML inputfile parameters.txt outputfile output.xml

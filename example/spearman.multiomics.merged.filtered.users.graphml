@@ -1,0 +1,1971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+<key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+<graph id="filtered_users" edgedefault="directed">
+<node id="Methanobrevibacter.01"/>
+<node id="Methanosphaera.01"/>
+<node id="Methanomassiliicoccus.01"/>
+<node id="vadinCA11.01"/>
+<node id="Actinomyces.01"/>
+<node id="Arcanobacterium.01"/>
+<node id="Mobiluncus.01"/>
+<node id="Corynebacterium.01"/>
+<node id="Rothia.01"/>
+<node id="Propionibacterium.01"/>
+<node id="Bifidobacterium.01"/>
+<node id="Gardnerella.01"/>
+<node id="Scardovia.01"/>
+<node id="Adlercreutzia.01"/>
+<node id="Atopobium.01"/>
+<node id="Collinsella.01"/>
+<node id="Eggerthella.01"/>
+<node id="Enterococcus.01"/>
+<node id="Slackia.01"/>
+<node id="Bacteroides.01"/>
+<node id="Paludibacter.01"/>
+<node id="Parabacteroides.01"/>
+<node id="Porphyromonas.01"/>
+<node id="Tannerella.01"/>
+<node id="Prevotella.01"/>
+<node id="AF12.01"/>
+<node id="Alistipes.01"/>
+<node id="Butyricimonas.01"/>
+<node id="Odoribacter.01"/>
+<node id="CF231.01"/>
+<node id="Paraprevotella.01"/>
+<node id="YRC22.01"/>
+<node id="X.Prevotella..01"/>
+<node id="Capnocytophaga.01"/>
+<node id="Pedobacter.01"/>
+<node id="Bacillus.01"/>
+<node id="Staphylococcus.01"/>
+<node id="Abiotrophia.01"/>
+<node id="Enterococcus.02"/>
+<node id="Lactobacillus.01"/>
+<node id="Pediococcus.01"/>
+<node id="Leuconostoc.01"/>
+<node id="Weissella.01"/>
+<node id="Lactococcus.01"/>
+<node id="Streptococcus.01"/>
+<node id="Turicibacter.01"/>
+<node id="Christensenella.01"/>
+<node id="Clostridium.01"/>
+<node id="SMB53.01"/>
+<node id="Dehalobacterium.01"/>
+<node id="Anaerofustis.01"/>
+<node id="Pseudoramibacter_Eubacterium.01"/>
+<node id="Anaerostipes.01"/>
+<node id="Blautia.01"/>
+<node id="Butyrivibrio.01"/>
+<node id="Clostridium.02"/>
+<node id="Coprococcus.01"/>
+<node id="Dorea.01"/>
+<node id="Lachnoanaerobaculum.01"/>
+<node id="Lachnobacterium.01"/>
+<node id="Lachnospira.01"/>
+<node id="Lactonifactor.01"/>
+<node id="Marvinbryantia.01"/>
+<node id="Moryella.01"/>
+<node id="Oribacterium.01"/>
+<node id="Roseburia.01"/>
+<node id="Shuttleworthia.01"/>
+<node id="X.Ruminococcus..01"/>
+<node id="Peptococcus.01"/>
+<node id="rc4.4.01"/>
+<node id="Peptostreptococcus.01"/>
+<node id="Anaerotruncus.01"/>
+<node id="Butyricicoccus.01"/>
+<node id="Clostridium.03"/>
+<node id="Faecalibacterium.01"/>
+<node id="Gemmiger.01"/>
+<node id="Oscillospira.01"/>
+<node id="Ruminococcus.01"/>
+<node id="Syntrophomonas.01"/>
+<node id="Acidaminococcus.01"/>
+<node id="Anaerovibrio.01"/>
+<node id="Dialister.01"/>
+<node id="Megamonas.01"/>
+<node id="Megasphaera.01"/>
+<node id="Mitsuokella.01"/>
+<node id="Phascolarctobacterium.01"/>
+<node id="Schwartzia.01"/>
+<node id="Selenomonas.01"/>
+<node id="Succiniclasticum.01"/>
+<node id="Veillonella.01"/>
+<node id="Mogibacterium.01"/>
+<node id="X1.68.01"/>
+<node id="Anaerococcus.01"/>
+<node id="Finegoldia.01"/>
+<node id="Parvimonas.01"/>
+<node id="Peptoniphilus.01"/>
+<node id="WAL_1855D.01"/>
+<node id="ph2.01"/>
+<node id="Allobaculum.01"/>
+<node id="Anaerorhabdus.01"/>
+<node id="Bulleidia.01"/>
+<node id="Catenibacterium.01"/>
+<node id="Clostridium.04"/>
+<node id="Coprobacillus.01"/>
+<node id="Holdemania.01"/>
+<node id="RFN20.01"/>
+<node id="X.Eubacterium..01"/>
+<node id="cc_115.01"/>
+<node id="p.75.a5.01"/>
+<node id="Fusobacterium.01"/>
+<node id="Leptotrichia.01"/>
+<node id="Sneathia.01"/>
+<node id="Victivallis.01"/>
+<node id="Brevundimonas.01"/>
+<node id="Ochrobactrum.01"/>
+<node id="Agrobacterium.01"/>
+<node id="Shinella.01"/>
+<node id="Paracoccus.01"/>
+<node id="Raphanus.01"/>
+<node id="Sphingomonas.01"/>
+<node id="Achromobacter.01"/>
+<node id="Sutterella.01"/>
+<node id="Oxalobacter.01"/>
+<node id="Ralstonia.01"/>
+<node id="Kingella.01"/>
+<node id="Neisseria.01"/>
+<node id="Bilophila.01"/>
+<node id="Desulfovibrio.01"/>
+<node id="Campylobacter.01"/>
+<node id="Helicobacter.01"/>
+<node id="Succinivibrio.01"/>
+<node id="Cardiobacterium.01"/>
+<node id="Providencia.01"/>
+<node id="Aggregatibacter.01"/>
+<node id="Haemophilus.01"/>
+<node id="Acinetobacter.01"/>
+<node id="Pseudomonas.01"/>
+<node id="Ignatzschineria.01"/>
+<node id="Pseudoxanthomonas.01"/>
+<node id="Treponema.01"/>
+<node id="Brachyspira.01"/>
+<node id="Pyramidobacter.01"/>
+<node id="TG5.01"/>
+<node id="Cloacibacillus.01"/>
+<node id="Synergistes.01"/>
+<node id="Anaeroplasma.01"/>
+<node id="Mycoplasma.01"/>
+<node id="Akkermansia.01"/>
+<node id="HMDB00001"/>
+<node id="HMDB00005"/>
+<node id="HMDB00012"/>
+<node id="HMDB00017"/>
+<node id="HMDB00019"/>
+<node id="HMDB00020"/>
+<node id="HMDB00026"/>
+<node id="HMDB00032"/>
+<node id="HMDB00034"/>
+<node id="HMDB00036"/>
+<node id="HMDB00039"/>
+<node id="HMDB00043"/>
+<node id="HMDB00045"/>
+<node id="HMDB00054"/>
+<node id="HMDB00056"/>
+<node id="HMDB00058"/>
+<node id="HMDB00060"/>
+<node id="HMDB00062"/>
+<node id="HMDB00063"/>
+<node id="HMDB00064"/>
+<node id="HMDB00067"/>
+<node id="HMDB00070"/>
+<node id="HMDB00076"/>
+<node id="HMDB00078"/>
+<node id="HMDB00079"/>
+<node id="HMDB00086"/>
+<node id="HMDB00089"/>
+<node id="HMDB00092"/>
+<node id="HMDB00094"/>
+<node id="HMDB00097"/>
+<node id="HMDB00098"/>
+<node id="HMDB00099"/>
+<node id="HMDB00114"/>
+<node id="HMDB00118"/>
+<node id="HMDB00122"/>
+<node id="HMDB00123"/>
+<node id="HMDB00126"/>
+<node id="HMDB00127"/>
+<node id="HMDB00128"/>
+<node id="HMDB00131"/>
+<node id="HMDB00134"/>
+<node id="HMDB00138"/>
+<node id="HMDB00139"/>
+<node id="HMDB00148"/>
+<node id="HMDB00152"/>
+<node id="HMDB00156"/>
+<node id="HMDB00157"/>
+<node id="HMDB00158"/>
+<node id="HMDB00159"/>
+<node id="HMDB00161"/>
+<node id="HMDB00162"/>
+<node id="HMDB00163"/>
+<node id="HMDB00167"/>
+<node id="HMDB00168"/>
+<node id="HMDB00169"/>
+<node id="HMDB00172"/>
+<node id="HMDB00175"/>
+<node id="HMDB00176"/>
+<node id="HMDB00177"/>
+<node id="HMDB00182"/>
+<node id="HMDB00186"/>
+<node id="HMDB00187"/>
+<node id="HMDB00190"/>
+<node id="HMDB00191"/>
+<node id="HMDB00192"/>
+<node id="HMDB00195"/>
+<node id="HMDB00197"/>
+<node id="HMDB00201"/>
+<node id="HMDB00202"/>
+<node id="HMDB00205"/>
+<node id="HMDB00206"/>
+<node id="HMDB00208"/>
+<node id="HMDB00209"/>
+<node id="HMDB00210"/>
+<node id="HMDB00211"/>
+<node id="HMDB00215"/>
+<node id="HMDB00220"/>
+<node id="HMDB00222"/>
+<node id="HMDB00224"/>
+<node id="HMDB00226"/>
+<node id="HMDB00230"/>
+<node id="HMDB00232"/>
+<node id="HMDB00243"/>
+<node id="HMDB00247"/>
+<node id="HMDB00251"/>
+<node id="HMDB00252"/>
+<node id="HMDB00254"/>
+<node id="HMDB00259"/>
+<node id="HMDB00267"/>
+<node id="HMDB00269"/>
+<node id="HMDB00271"/>
+<node id="HMDB00277"/>
+<node id="HMDB00289"/>
+<node id="HMDB00291"/>
+<node id="HMDB00292"/>
+<node id="HMDB00294"/>
+<node id="HMDB00296"/>
+<node id="HMDB00299"/>
+<node id="HMDB00300"/>
+<node id="HMDB00301"/>
+<node id="HMDB00305"/>
+<node id="HMDB00308"/>
+<node id="HMDB00317"/>
+<node id="HMDB00323"/>
+<node id="HMDB00327"/>
+<node id="HMDB00336"/>
+<node id="HMDB00339"/>
+<node id="HMDB00345"/>
+<node id="HMDB00350"/>
+<node id="HMDB00355"/>
+<node id="HMDB00357"/>
+<node id="HMDB00375"/>
+<node id="HMDB00378"/>
+<node id="HMDB00387"/>
+<node id="HMDB00396"/>
+<node id="HMDB00407"/>
+<node id="HMDB00413"/>
+<node id="HMDB00416"/>
+<node id="HMDB00424"/>
+<node id="HMDB00439"/>
+<node id="HMDB00448"/>
+<node id="HMDB00450"/>
+<node id="HMDB00459"/>
+<node id="HMDB00462"/>
+<node id="HMDB00477"/>
+<node id="HMDB00479"/>
+<node id="HMDB00482"/>
+<node id="HMDB00488"/>
+<node id="HMDB00489"/>
+<node id="HMDB00493"/>
+<node id="HMDB00498"/>
+<node id="HMDB00508"/>
+<node id="HMDB00510"/>
+<node id="HMDB00511"/>
+<node id="HMDB00512"/>
+<node id="HMDB00517"/>
+<node id="HMDB00518"/>
+<node id="HMDB00522"/>
+<node id="HMDB00525"/>
+<node id="HMDB00529"/>
+<node id="HMDB00532"/>
+<node id="HMDB00535"/>
+<node id="HMDB00552"/>
+<node id="HMDB00560"/>
+<node id="HMDB00562"/>
+<node id="HMDB00564"/>
+<node id="HMDB00565"/>
+<node id="HMDB00574"/>
+<node id="HMDB00594"/>
+<node id="HMDB0059655"/>
+<node id="HMDB00613"/>
+<node id="HMDB00619"/>
+<node id="HMDB00622"/>
+<node id="HMDB00623"/>
+<node id="HMDB00625"/>
+<node id="HMDB00626"/>
+<node id="HMDB00630"/>
+<node id="HMDB00631"/>
+<node id="HMDB00637"/>
+<node id="HMDB00638"/>
+<node id="HMDB00640"/>
+<node id="HMDB00641"/>
+<node id="HMDB00646"/>
+<node id="HMDB00650"/>
+<node id="HMDB00651"/>
+<node id="HMDB00656"/>
+<node id="HMDB00660"/>
+<node id="HMDB00661"/>
+<node id="HMDB00666"/>
+<node id="HMDB00669"/>
+<node id="HMDB00670"/>
+<node id="HMDB00671"/>
+<node id="HMDB00672"/>
+<node id="HMDB00673"/>
+<node id="HMDB00678"/>
+<node id="HMDB00679"/>
+<node id="HMDB00682"/>
+<node id="HMDB00684"/>
+<node id="HMDB00686"/>
+<node id="HMDB00688"/>
+<node id="HMDB00691"/>
+<node id="HMDB00695"/>
+<node id="HMDB00696"/>
+<node id="HMDB00698"/>
+<node id="HMDB00699"/>
+<node id="HMDB00701"/>
+<node id="HMDB00705"/>
+<node id="HMDB00707"/>
+<node id="HMDB00708"/>
+<node id="HMDB00709"/>
+<node id="HMDB00714"/>
+<node id="HMDB00715"/>
+<node id="HMDB00718"/>
+<node id="HMDB00720"/>
+<node id="HMDB00725"/>
+<node id="HMDB00730"/>
+<node id="HMDB00731"/>
+<node id="HMDB00732"/>
+<node id="HMDB00736"/>
+<node id="HMDB00746"/>
+<node id="HMDB00754"/>
+<node id="HMDB00755"/>
+<node id="HMDB00760"/>
+<node id="HMDB00763"/>
+<node id="HMDB00764"/>
+<node id="HMDB00766"/>
+<node id="HMDB00767"/>
+<node id="HMDB00772"/>
+<node id="HMDB00774"/>
+<node id="HMDB00779"/>
+<node id="HMDB00782"/>
+<node id="HMDB00783"/>
+<node id="HMDB00784"/>
+<node id="HMDB00788"/>
+<node id="HMDB00791"/>
+<node id="HMDB00792"/>
+<node id="HMDB00806"/>
+<node id="HMDB00807"/>
+<node id="HMDB00808"/>
+<node id="HMDB00812"/>
+<node id="HMDB00821"/>
+<node id="HMDB00824"/>
+<node id="HMDB00826"/>
+<node id="HMDB00827"/>
+<node id="HMDB00840"/>
+<node id="HMDB00848"/>
+<node id="HMDB00852"/>
+<node id="HMDB00854"/>
+<node id="HMDB00855"/>
+<node id="HMDB00856"/>
+<node id="HMDB00866"/>
+<node id="HMDB00867"/>
+<node id="HMDB00872"/>
+<node id="HMDB00875"/>
+<node id="HMDB00881"/>
+<node id="HMDB00883"/>
+<node id="HMDB00884"/>
+<node id="HMDB00888"/>
+<node id="HMDB00892"/>
+<node id="HMDB00896"/>
+<node id="HMDB00897"/>
+<node id="HMDB00901"/>
+<node id="HMDB00904"/>
+<node id="HMDB00912"/>
+<node id="HMDB00913"/>
+<node id="HMDB00921"/>
+<node id="HMDB00925"/>
+<node id="HMDB00929"/>
+<node id="HMDB00932"/>
+<node id="HMDB00939"/>
+<node id="HMDB00943"/>
+<node id="HMDB00946"/>
+<node id="HMDB00947"/>
+<node id="HMDB00951"/>
+<node id="HMDB00959"/>
+<node id="HMDB00965"/>
+<node id="HMDB00991"/>
+<node id="HMDB00996"/>
+<node id="HMDB01008"/>
+<node id="HMDB01015"/>
+<node id="HMDB01032"/>
+<node id="HMDB01043"/>
+<node id="HMDB01046"/>
+<node id="HMDB01067"/>
+<node id="HMDB01123"/>
+<node id="HMDB01138"/>
+<node id="HMDB01161"/>
+<node id="HMDB01173"/>
+<node id="HMDB01212"/>
+<node id="HMDB01248"/>
+<node id="HMDB01256"/>
+<node id="HMDB01257"/>
+<node id="HMDB01301"/>
+<node id="HMDB01325"/>
+<node id="HMDB01341"/>
+<node id="HMDB01344"/>
+<node id="HMDB01348"/>
+<node id="HMDB01353"/>
+<node id="HMDB01358"/>
+<node id="HMDB01383"/>
+<node id="HMDB01406"/>
+<node id="HMDB01425"/>
+<node id="HMDB01429"/>
+<node id="HMDB01434"/>
+<node id="HMDB01448"/>
+<node id="HMDB01539"/>
+<node id="HMDB01545"/>
+<node id="HMDB01547"/>
+<node id="HMDB01565"/>
+<node id="HMDB01624"/>
+<node id="HMDB01844"/>
+<node id="HMDB01847"/>
+<node id="HMDB01850"/>
+<node id="HMDB01857"/>
+<node id="HMDB01859"/>
+<node id="HMDB01860"/>
+<node id="HMDB01870"/>
+<node id="HMDB01878"/>
+<node id="HMDB01886"/>
+<node id="HMDB01889"/>
+<node id="HMDB01893"/>
+<node id="HMDB01895"/>
+<node id="HMDB01913"/>
+<node id="HMDB01918"/>
+<node id="HMDB01921"/>
+<node id="HMDB01923"/>
+<node id="HMDB01924"/>
+<node id="HMDB01925"/>
+<node id="HMDB01928"/>
+<node id="HMDB01931"/>
+<node id="HMDB01932"/>
+<node id="HMDB01954"/>
+<node id="HMDB01976"/>
+<node id="HMDB01982"/>
+<node id="HMDB01991"/>
+<node id="HMDB01999"/>
+<node id="HMDB02000"/>
+<node id="HMDB02005"/>
+<node id="HMDB02007"/>
+<node id="HMDB02013"/>
+<node id="HMDB02038"/>
+<node id="HMDB02039"/>
+<node id="HMDB02064"/>
+<node id="HMDB02068"/>
+<node id="HMDB02070"/>
+<node id="HMDB02088"/>
+<node id="HMDB02095"/>
+<node id="HMDB02100"/>
+<node id="HMDB02108"/>
+<node id="HMDB02110"/>
+<node id="HMDB02123"/>
+<node id="HMDB02183"/>
+<node id="HMDB02199"/>
+<node id="HMDB02201"/>
+<node id="HMDB02203"/>
+<node id="HMDB02212"/>
+<node id="HMDB02226"/>
+<node id="HMDB02231"/>
+<node id="HMDB02243"/>
+<node id="HMDB02250"/>
+<node id="HMDB02259"/>
+<node id="HMDB02264"/>
+<node id="HMDB02271"/>
+<node id="HMDB02284"/>
+<node id="HMDB02302"/>
+<node id="HMDB02320"/>
+<node id="HMDB02329"/>
+<node id="HMDB02331"/>
+<node id="HMDB02366"/>
+<node id="HMDB02434"/>
+<node id="HMDB02453"/>
+<node id="HMDB02486"/>
+<node id="HMDB02580"/>
+<node id="HMDB02639"/>
+<node id="HMDB02712"/>
+<node id="HMDB02721"/>
+<node id="HMDB02759"/>
+<node id="HMDB02802"/>
+<node id="HMDB02815"/>
+<node id="HMDB02820"/>
+<node id="HMDB02823"/>
+<node id="HMDB02825"/>
+<node id="HMDB02829"/>
+<node id="HMDB02869"/>
+<node id="HMDB02925"/>
+<node id="HMDB02931"/>
+<node id="HMDB02994"/>
+<node id="HMDB03045"/>
+<node id="HMDB03072"/>
+<node id="HMDB03073"/>
+<node id="HMDB03099"/>
+<node id="HMDB03148"/>
+<node id="HMDB03157"/>
+<node id="HMDB03178"/>
+<node id="HMDB03229"/>
+<node id="HMDB03290"/>
+<node id="HMDB03320"/>
+<node id="HMDB03331"/>
+<node id="HMDB03349"/>
+<node id="HMDB03374"/>
+<node id="HMDB03464"/>
+<node id="HMDB03681"/>
+<node id="HMDB03736"/>
+<node id="HMDB03818"/>
+<node id="HMDB03869"/>
+<node id="HMDB03911"/>
+<node id="HMDB04044"/>
+<node id="HMDB04089"/>
+<node id="HMDB04148"/>
+<node id="HMDB04157"/>
+<node id="HMDB04193"/>
+<node id="HMDB04194"/>
+<node id="HMDB04225"/>
+<node id="HMDB04400"/>
+<node id="HMDB04484"/>
+<node id="HMDB04620"/>
+<node id="HMDB04666"/>
+<node id="HMDB04704"/>
+<node id="HMDB04705"/>
+<node id="HMDB04824"/>
+<node id="HMDB04827"/>
+<node id="HMDB04949"/>
+<node id="HMDB04950"/>
+<node id="HMDB04983"/>
+<node id="HMDB04988"/>
+<node id="HMDB05015"/>
+<node id="HMDB05017"/>
+<node id="HMDB05021"/>
+<node id="HMDB05028"/>
+<node id="HMDB05032"/>
+<node id="HMDB05060"/>
+<node id="HMDB05065"/>
+<node id="HMDB05066"/>
+<node id="HMDB05320"/>
+<node id="HMDB05322"/>
+<node id="HMDB05323"/>
+<node id="HMDB05324"/>
+<node id="HMDB05334"/>
+<node id="HMDB05349"/>
+<node id="HMDB05779"/>
+<node id="HMDB05923"/>
+<node id="HMDB06028"/>
+<node id="HMDB06029"/>
+<node id="HMDB06111"/>
+<node id="HMDB06116"/>
+<node id="HMDB06210"/>
+<node id="HMDB06275"/>
+<node id="HMDB06294"/>
+<node id="HMDB06344"/>
+<node id="HMDB06347"/>
+<node id="HMDB06409"/>
+<node id="HMDB06460"/>
+<node id="HMDB06469"/>
+<node id="HMDB06528"/>
+<node id="HMDB06547"/>
+<node id="HMDB06695"/>
+<node id="HMDB07103"/>
+<node id="HMDB07112"/>
+<node id="HMDB07132"/>
+<node id="HMDB07218"/>
+<node id="HMDB07219"/>
+<node id="HMDB07220"/>
+<node id="HMDB07228"/>
+<node id="HMDB07248"/>
+<node id="HMDB07249"/>
+<node id="HMDB07250"/>
+<node id="HMDB07257"/>
+<node id="HMDB07856"/>
+<node id="HMDB07869"/>
+<node id="HMDB07883"/>
+<node id="HMDB07969"/>
+<node id="HMDB07970"/>
+<node id="HMDB07972"/>
+<node id="HMDB07973"/>
+<node id="HMDB07975"/>
+<node id="HMDB07982"/>
+<node id="HMDB07991"/>
+<node id="HMDB08006"/>
+<node id="HMDB08008"/>
+<node id="HMDB08038"/>
+<node id="HMDB08039"/>
+<node id="HMDB08048"/>
+<node id="HMDB08057"/>
+<node id="HMDB08123"/>
+<node id="HMDB08138"/>
+<node id="HMDB08141"/>
+<node id="HMDB08147"/>
+<node id="HMDB08993"/>
+<node id="HMDB08994"/>
+<node id="HMDB09003"/>
+<node id="HMDB09069"/>
+<node id="HMDB09093"/>
+<node id="HMDB09783"/>
+<node id="HMDB09784"/>
+<node id="HMDB09789"/>
+<node id="HMDB09809"/>
+<node id="HMDB09815"/>
+<node id="HMDB10163"/>
+<node id="HMDB10316"/>
+<node id="HMDB10318"/>
+<node id="HMDB10325"/>
+<node id="HMDB10378"/>
+<node id="HMDB10382"/>
+<node id="HMDB10383"/>
+<node id="HMDB10384"/>
+<node id="HMDB10386"/>
+<node id="HMDB10388"/>
+<node id="HMDB10395"/>
+<node id="HMDB10405"/>
+<node id="HMDB10407"/>
+<node id="HMDB10738"/>
+<node id="HMDB11103"/>
+<node id="HMDB11105"/>
+<node id="HMDB11107"/>
+<node id="HMDB11129"/>
+<node id="HMDB11130"/>
+<node id="HMDB11170"/>
+<node id="HMDB11171"/>
+<node id="HMDB11172"/>
+<node id="HMDB11178"/>
+<node id="HMDB11206"/>
+<node id="HMDB11207"/>
+<node id="HMDB11211"/>
+<node id="HMDB11220"/>
+<node id="HMDB11342"/>
+<node id="HMDB11343"/>
+<node id="HMDB11352"/>
+<node id="HMDB11375"/>
+<node id="HMDB11376"/>
+<node id="HMDB11503"/>
+<node id="HMDB11506"/>
+<node id="HMDB11507"/>
+<node id="HMDB11517"/>
+<node id="HMDB11537"/>
+<node id="HMDB11538"/>
+<node id="HMDB11549"/>
+<node id="HMDB11565"/>
+<node id="HMDB11567"/>
+<node id="HMDB11621"/>
+<node id="HMDB11635"/>
+<node id="HMDB11667"/>
+<node id="HMDB11686"/>
+<node id="HMDB11737"/>
+<node id="HMDB11738"/>
+<node id="HMDB11741"/>
+<node id="HMDB11745"/>
+<node id="HMDB11749"/>
+<node id="HMDB11753"/>
+<node id="HMDB11756"/>
+<node id="HMDB11757"/>
+<node id="HMDB11760"/>
+<node id="HMDB12085"/>
+<node id="HMDB12087"/>
+<node id="HMDB12091"/>
+<node id="HMDB12097"/>
+<node id="HMDB12101"/>
+<node id="HMDB12102"/>
+<node id="HMDB12103"/>
+<node id="HMDB12104"/>
+<node id="HMDB12105"/>
+<node id="HMDB12107"/>
+<node id="HMDB12141"/>
+<node id="HMDB12235"/>
+<node id="HMDB12252"/>
+<node id="HMDB12383"/>
+<node id="HMDB12458"/>
+<node id="HMDB12881"/>
+<node id="HMDB13034"/>
+<node id="HMDB13127"/>
+<node id="HMDB13130"/>
+<node id="HMDB13133"/>
+<node id="HMDB13211"/>
+<node id="HMDB13240"/>
+<node id="HMDB13253"/>
+<node id="HMDB13287"/>
+<node id="HMDB13288"/>
+<node id="HMDB13326"/>
+<node id="HMDB13622"/>
+<node id="HMDB13676"/>
+<node id="HMDB13678"/>
+<node id="HMDB13713"/>
+<node id="HMDB13854"/>
+<node id="HMDB13899"/>
+<node id="HMDB13989"/>
+<node id="HMDB14339"/>
+<node id="HMDB14445"/>
+<node id="HMDB14763"/>
+<node id="HMDB14794"/>
+<node id="HMDB14847"/>
+<node id="HMDB15017"/>
+<node id="HMDB15109"/>
+<node id="HMDB15150"/>
+<node id="HMDB15182"/>
+<node id="HMDB15205"/>
+<node id="HMDB15393"/>
+<node id="HMDB28907"/>
+<node id="HMDB29142"/>
+<node id="HMDB29155"/>
+<node id="HMDB29159"/>
+<node id="HMDB29160"/>
+<node id="HMDB29377"/>
+<node id="HMDB29412"/>
+<node id="HMDB29432"/>
+<node id="HMDB29576"/>
+<node id="HMDB29723"/>
+<node id="HMDB29737"/>
+<node id="HMDB29738"/>
+<node id="HMDB31057"/>
+<node id="HMDB31074"/>
+<node id="HMDB32055"/>
+<node id="HMDB32332"/>
+<node id="HMDB33143"/>
+<node id="HMDB33433"/>
+<node id="HMDB33585"/>
+<node id="HMDB33592"/>
+<node id="HMDB33724"/>
+<node id="HMDB33844"/>
+<node id="HMDB34220"/>
+<node id="HMDB34323"/>
+<node id="HMDB35227"/>
+<node id="HMDB35514"/>
+<node id="HMDB37397"/>
+<node id="HMDB38670"/>
+<node id="HMDB41623"/>
+<node id="HMDB41708"/>
+<node id="HMDB41836"/>
+<node id="HMDB59586"/>
+<node id="HMDB59587"/>
+<node id="HMDB59724"/>
+<node id="HMDB59745"/>
+<node id="HMDB59766"/>
+<node id="HMDB59772"/>
+<node id="HMDB59911"/>
+<node id="HMDB60013"/>
+<node id="HMDB60014"/>
+<node id="HMDB60015"/>
+<node id="HMDB60026"/>
+<node id="HMDB60038"/>
+<node id="HMDB60426"/>
+<node id="HMDB60564"/>
+<node id="HMDB60920"/>
+<node id="HMDB60994"/>
+<node id="HMDB60997"/>
+<node id="HMDB61112"/>
+<node id="HMDB61115"/>
+<node id="HMDB61116"/>
+<node id="HMDB61636"/>
+<node id="HMDB61661"/>
+<node id="HMDB61677"/>
+<node id="HMDB61684"/>
+<node id="HMDB61690"/>
+<node id="HMDB61694"/>
+<node id="HMDB61695"/>
+<node id="HMDB61696"/>
+<node id="HMDB61702"/>
+<node id="HMDB61705"/>
+<node id="HMDB61714"/>
+<node id="HMDB61715"/>
+<node id="HMDB61717"/>
+<node id="HMDB61725"/>
+<node id="HMDB62551"/>
+<node id="HMDB62557"/>
+<node id="HMDB62775"/>
+<edge id="e1" source="Methanobrevibacter.01" target="Collinsella.01">
+<data key="key_weight">0.591266393661</data>
+</edge>
+<edge id="e2" source="Methanobrevibacter.01" target="Christensenella.01">
+<data key="key_weight">0.608746767044</data>
+</edge>
+<edge id="e3" source="Methanobrevibacter.01" target="Peptococcus.01">
+<data key="key_weight">0.52908295393</data>
+</edge>
+<edge id="e4" source="Methanobrevibacter.01" target="X.Eubacterium..01">
+<data key="key_weight">0.520622014999</data>
+</edge>
+<edge id="e5" source="Methanobrevibacter.01" target="Sutterella.01">
+<data key="key_weight">-0.568839013577</data>
+</edge>
+<edge id="e6" source="Methanosphaera.01" target="AF12.01">
+<data key="key_weight">0.601566135883</data>
+</edge>
+<edge id="e7" source="Methanosphaera.01" target="p.75.a5.01">
+<data key="key_weight">0.645958960056</data>
+</edge>
+<edge id="e8" source="Methanomassiliicoccus.01" target="Scardovia.01">
+<data key="key_weight">1.0</data>
+</edge>
+<edge id="e9" source="Methanomassiliicoccus.01" target="Enterococcus.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e10" source="Methanomassiliicoccus.01" target="Anaerorhabdus.01">
+<data key="key_weight">0.66154718399</data>
+</edge>
+<edge id="e11" source="vadinCA11.01" target="Arcanobacterium.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e12" source="vadinCA11.01" target="CF231.01">
+<data key="key_weight">1.0</data>
+</edge>
+<edge id="e13" source="vadinCA11.01" target="YRC22.01">
+<data key="key_weight">0.66154718399</data>
+</edge>
+<edge id="e14" source="vadinCA11.01" target="Butyrivibrio.01">
+<data key="key_weight">1.0</data>
+</edge>
+<edge id="e15" source="vadinCA11.01" target="Oribacterium.01">
+<data key="key_weight">0.612658083439</data>
+</edge>
+<edge id="e16" source="vadinCA11.01" target="Anaerovibrio.01">
+<data key="key_weight">0.996527791023</data>
+</edge>
+<edge id="e17" source="vadinCA11.01" target="Bulleidia.01">
+<data key="key_weight">0.509228587151</data>
+</edge>
+<edge id="e18" source="vadinCA11.01" target="RFN20.01">
+<data key="key_weight">0.601937532425</data>
+</edge>
+<edge id="e19" source="vadinCA11.01" target="p.75.a5.01">
+<data key="key_weight">0.798822999001</data>
+</edge>
+<edge id="e20" source="vadinCA11.01" target="Campylobacter.01">
+<data key="key_weight">0.507545948029</data>
+</edge>
+<edge id="e21" source="vadinCA11.01" target="Succinivibrio.01">
+<data key="key_weight">0.734594583511</data>
+</edge>
+<edge id="e22" source="vadinCA11.01" target="Cardiobacterium.01">
+<data key="key_weight">0.66154718399</data>
+</edge>
+<edge id="e23" source="Actinomyces.01" target="Corynebacterium.01">
+<data key="key_weight">0.510567724705</data>
+</edge>
+<edge id="e24" source="Actinomyces.01" target="Atopobium.01">
+<data key="key_weight">0.687659740448</data>
+</edge>
+<edge id="e25" source="Actinomyces.01" target="Porphyromonas.01">
+<data key="key_weight">0.643691718578</data>
+</edge>
+<edge id="e26" source="Actinomyces.01" target="Streptococcus.01">
+<data key="key_weight">0.602220058441</data>
+</edge>
+<edge id="e27" source="Actinomyces.01" target="Veillonella.01">
+<data key="key_weight">0.563066482544</data>
+</edge>
+<edge id="e28" source="Actinomyces.01" target="Neisseria.01">
+<data key="key_weight">0.645735621452</data>
+</edge>
+<edge id="e29" source="Actinomyces.01" target="Aggregatibacter.01">
+<data key="key_weight">0.566243469715</data>
+</edge>
+<edge id="e30" source="Actinomyces.01" target="Haemophilus.01">
+<data key="key_weight">0.655951619148</data>
+</edge>
+<edge id="e31" source="Actinomyces.01" target="HMDB00696">
+<data key="key_weight">-0.517288267612</data>
+</edge>
+<edge id="e32" source="Arcanobacterium.01" target="CF231.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e33" source="Arcanobacterium.01" target="Butyrivibrio.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e34" source="Arcanobacterium.01" target="Anaerovibrio.01">
+<data key="key_weight">0.66154718399</data>
+</edge>
+<edge id="e35" source="Arcanobacterium.01" target="p.75.a5.01">
+<data key="key_weight">0.601566135883</data>
+</edge>
+<edge id="e36" source="Mobiluncus.01" target="Porphyromonas.01">
+<data key="key_weight">0.544748067856</data>
+</edge>
+<edge id="e37" source="Mobiluncus.01" target="Lachnoanaerobaculum.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e38" source="Mobiluncus.01" target="Parvimonas.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e39" source="Mobiluncus.01" target="Allobaculum.01">
+<data key="key_weight">0.645395576954</data>
+</edge>
+<edge id="e40" source="Mobiluncus.01" target="Ralstonia.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e41" source="Mobiluncus.01" target="Kingella.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e42" source="Mobiluncus.01" target="Treponema.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e43" source="Corynebacterium.01" target="Rothia.01">
+<data key="key_weight">0.759066402912</data>
+</edge>
+<edge id="e44" source="Corynebacterium.01" target="Anaerofustis.01">
+<data key="key_weight">0.575550794601</data>
+</edge>
+<edge id="e45" source="Corynebacterium.01" target="Selenomonas.01">
+<data key="key_weight">0.601273715496</data>
+</edge>
+<edge id="e46" source="Corynebacterium.01" target="Clostridium.04">
+<data key="key_weight">0.574520885944</data>
+</edge>
+<edge id="e47" source="Corynebacterium.01" target="Leptotrichia.01">
+<data key="key_weight">0.535922646523</data>
+</edge>
+<edge id="e48" source="Corynebacterium.01" target="Neisseria.01">
+<data key="key_weight">0.631646513939</data>
+</edge>
+<edge id="e49" source="Corynebacterium.01" target="Aggregatibacter.01">
+<data key="key_weight">0.628108680248</data>
+</edge>
+<edge id="e50" source="Corynebacterium.01" target="Akkermansia.01">
+<data key="key_weight">0.521571874619</data>
+</edge>
+<edge id="e51" source="Corynebacterium.01" target="HMDB00039">
+<data key="key_weight">-0.521471440792</data>
+</edge>
+<edge id="e52" source="Corynebacterium.01" target="HMDB00271">
+<data key="key_weight">-0.593142092228</data>
+</edge>
+<edge id="e53" source="Corynebacterium.01" target="HMDB00707">
+<data key="key_weight">-0.546015024185</data>
+</edge>
+<edge id="e54" source="Rothia.01" target="Selenomonas.01">
+<data key="key_weight">0.671875715256</data>
+</edge>
+<edge id="e55" source="Rothia.01" target="Fusobacterium.01">
+<data key="key_weight">0.567432284355</data>
+</edge>
+<edge id="e56" source="Rothia.01" target="Neisseria.01">
+<data key="key_weight">0.596036732197</data>
+</edge>
+<edge id="e57" source="Rothia.01" target="Aggregatibacter.01">
+<data key="key_weight">0.531368911266</data>
+</edge>
+<edge id="e58" source="Rothia.01" target="Haemophilus.01">
+<data key="key_weight">0.526840507984</data>
+</edge>
+<edge id="e59" source="Propionibacterium.01" target="Capnocytophaga.01">
+<data key="key_weight">0.55143558979</data>
+</edge>
+<edge id="e60" source="Propionibacterium.01" target="Enterococcus.02">
+<data key="key_weight">0.531995177269</data>
+</edge>
+<edge id="e61" source="Propionibacterium.01" target="Leuconostoc.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e62" source="Propionibacterium.01" target="Anaerofustis.01">
+<data key="key_weight">0.531995177269</data>
+</edge>
+<edge id="e63" source="Propionibacterium.01" target="Sphingomonas.01">
+<data key="key_weight">1.0</data>
+</edge>
+<edge id="e64" source="Propionibacterium.01" target="Aggregatibacter.01">
+<data key="key_weight">0.66154718399</data>
+</edge>
+<edge id="e65" source="Propionibacterium.01" target="Ignatzschineria.01">
+<data key="key_weight">1.0</data>
+</edge>
+<edge id="e66" source="Propionibacterium.01" target="HMDB00045">
+<data key="key_weight">0.548121869564</data>
+</edge>
+<edge id="e67" source="Gardnerella.01" target="Shuttleworthia.01">
+<data key="key_weight">1.0</data>
+</edge>
+<edge id="e68" source="Gardnerella.01" target="X1.68.01">
+<data key="key_weight">1.0</data>
+</edge>
+<edge id="e69" source="Gardnerella.01" target="Finegoldia.01">
+<data key="key_weight">1.0</data>
+</edge>
+<edge id="e70" source="Gardnerella.01" target="Peptoniphilus.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e71" source="Gardnerella.01" target="WAL_1855D.01">
+<data key="key_weight">0.55143558979</data>
+</edge>
+<edge id="e72" source="Gardnerella.01" target="Sneathia.01">
+<data key="key_weight">0.531995177269</data>
+</edge>
+<edge id="e73" source="Gardnerella.01" target="Mycoplasma.01">
+<data key="key_weight">1.0</data>
+</edge>
+<edge id="e74" source="Scardovia.01" target="Enterococcus.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e75" source="Scardovia.01" target="Anaerorhabdus.01">
+<data key="key_weight">0.66154718399</data>
+</edge>
+<edge id="e76" source="Atopobium.01" target="Capnocytophaga.01">
+<data key="key_weight">0.653595924377</data>
+</edge>
+<edge id="e77" source="Atopobium.01" target="Streptococcus.01">
+<data key="key_weight">0.563253760338</data>
+</edge>
+<edge id="e78" source="Atopobium.01" target="Moryella.01">
+<data key="key_weight">0.538557767868</data>
+</edge>
+<edge id="e79" source="Atopobium.01" target="Neisseria.01">
+<data key="key_weight">0.616406023502</data>
+</edge>
+<edge id="e80" source="Atopobium.01" target="Aggregatibacter.01">
+<data key="key_weight">0.594270646572</data>
+</edge>
+<edge id="e81" source="Atopobium.01" target="Haemophilus.01">
+<data key="key_weight">0.574123263359</data>
+</edge>
+<edge id="e82" source="Collinsella.01" target="Christensenella.01">
+<data key="key_weight">0.68570369482</data>
+</edge>
+<edge id="e83" source="Collinsella.01" target="Desulfovibrio.01">
+<data key="key_weight">0.563651502132</data>
+</edge>
+<edge id="e84" source="Enterococcus.01" target="Pseudomonas.01">
+<data key="key_weight">0.66154718399</data>
+</edge>
+<edge id="e85" source="Enterococcus.01" target="Pyramidobacter.01">
+<data key="key_weight">0.601937532425</data>
+</edge>
+<edge id="e86" source="Enterococcus.01" target="HMDB00045">
+<data key="key_weight">0.519426345825</data>
+</edge>
+<edge id="e87" source="Slackia.01" target="Clostridium.02">
+<data key="key_weight">-0.519777595997</data>
+</edge>
+<edge id="e88" source="Slackia.01" target="X.Ruminococcus..01">
+<data key="key_weight">-0.644806206226</data>
+</edge>
+<edge id="e89" source="Slackia.01" target="Peptococcus.01">
+<data key="key_weight">0.552755475044</data>
+</edge>
+<edge id="e90" source="Slackia.01" target="Catenibacterium.01">
+<data key="key_weight">0.718434870243</data>
+</edge>
+<edge id="e91" source="Slackia.01" target="Sutterella.01">
+<data key="key_weight">-0.520688712597</data>
+</edge>
+<edge id="e92" source="Slackia.01" target="Oxalobacter.01">
+<data key="key_weight">0.54957985878</data>
+</edge>
+<edge id="e93" source="Bacteroides.01" target="Clostridium.02">
+<data key="key_weight">0.796144902706</data>
+</edge>
+<edge id="e94" source="Bacteroides.01" target="Lachnobacterium.01">
+<data key="key_weight">-0.559496819973</data>
+</edge>
+<edge id="e95" source="Bacteroides.01" target="Holdemania.01">
+<data key="key_weight">0.689546108246</data>
+</edge>
+<edge id="e96" source="Bacteroides.01" target="p.75.a5.01">
+<data key="key_weight">-0.526520848274</data>
+</edge>
+<edge id="e97" source="Bacteroides.01" target="Bilophila.01">
+<data key="key_weight">0.56626278162</data>
+</edge>
+<edge id="e98" source="Parabacteroides.01" target="Holdemania.01">
+<data key="key_weight">0.583034098148</data>
+</edge>
+<edge id="e99" source="Parabacteroides.01" target="Pyramidobacter.01">
+<data key="key_weight">0.535842776299</data>
+</edge>
+<edge id="e100" source="Porphyromonas.01" target="Moryella.01">
+<data key="key_weight">0.565382480621</data>
+</edge>
+<edge id="e101" source="Porphyromonas.01" target="Peptoniphilus.01">
+<data key="key_weight">0.542684614658</data>
+</edge>
+<edge id="e102" source="Porphyromonas.01" target="WAL_1855D.01">
+<data key="key_weight">0.64671599865</data>
+</edge>
+<edge id="e103" source="Porphyromonas.01" target="Neisseria.01">
+<data key="key_weight">0.535591185093</data>
+</edge>
+<edge id="e104" source="Porphyromonas.01" target="Aggregatibacter.01">
+<data key="key_weight">0.5199868083</data>
+</edge>
+<edge id="e105" source="Tannerella.01" target="HMDB00045">
+<data key="key_weight">0.533208608627</data>
+</edge>
+<edge id="e106" source="AF12.01" target="p.75.a5.01">
+<data key="key_weight">0.55143558979</data>
+</edge>
+<edge id="e107" source="AF12.01" target="Brachyspira.01">
+<data key="key_weight">0.601566135883</data>
+</edge>
+<edge id="e108" source="AF12.01" target="Cloacibacillus.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e109" source="AF12.01" target="Synergistes.01">
+<data key="key_weight">0.531995177269</data>
+</edge>
+<edge id="e110" source="Odoribacter.01" target="Pyramidobacter.01">
+<data key="key_weight">0.51673656702</data>
+</edge>
+<edge id="e111" source="CF231.01" target="YRC22.01">
+<data key="key_weight">0.66154718399</data>
+</edge>
+<edge id="e112" source="CF231.01" target="Butyrivibrio.01">
+<data key="key_weight">1.0</data>
+</edge>
+<edge id="e113" source="CF231.01" target="Oribacterium.01">
+<data key="key_weight">0.612658083439</data>
+</edge>
+<edge id="e114" source="CF231.01" target="Anaerovibrio.01">
+<data key="key_weight">0.996527791023</data>
+</edge>
+<edge id="e115" source="CF231.01" target="Bulleidia.01">
+<data key="key_weight">0.509228587151</data>
+</edge>
+<edge id="e116" source="CF231.01" target="RFN20.01">
+<data key="key_weight">0.601937532425</data>
+</edge>
+<edge id="e117" source="CF231.01" target="p.75.a5.01">
+<data key="key_weight">0.798822999001</data>
+</edge>
+<edge id="e118" source="CF231.01" target="Campylobacter.01">
+<data key="key_weight">0.507545948029</data>
+</edge>
+<edge id="e119" source="CF231.01" target="Succinivibrio.01">
+<data key="key_weight">0.734594583511</data>
+</edge>
+<edge id="e120" source="CF231.01" target="Cardiobacterium.01">
+<data key="key_weight">0.66154718399</data>
+</edge>
+<edge id="e121" source="YRC22.01" target="Butyrivibrio.01">
+<data key="key_weight">0.66154718399</data>
+</edge>
+<edge id="e122" source="YRC22.01" target="Anaerovibrio.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e123" source="YRC22.01" target="Succinivibrio.01">
+<data key="key_weight">0.531995177269</data>
+</edge>
+<edge id="e124" source="YRC22.01" target="Cardiobacterium.01">
+<data key="key_weight">1.0</data>
+</edge>
+<edge id="e125" source="X.Prevotella..01" target="Bulleidia.01">
+<data key="key_weight">0.54313403368</data>
+</edge>
+<edge id="e126" source="Capnocytophaga.01" target="Lachnoanaerobaculum.01">
+<data key="key_weight">0.601566135883</data>
+</edge>
+<edge id="e127" source="Capnocytophaga.01" target="Selenomonas.01">
+<data key="key_weight">0.589922487736</data>
+</edge>
+<edge id="e128" source="Capnocytophaga.01" target="Parvimonas.01">
+<data key="key_weight">0.601566135883</data>
+</edge>
+<edge id="e129" source="Capnocytophaga.01" target="Fusobacterium.01">
+<data key="key_weight">0.524722993374</data>
+</edge>
+<edge id="e130" source="Capnocytophaga.01" target="Sphingomonas.01">
+<data key="key_weight">0.55143558979</data>
+</edge>
+<edge id="e131" source="Capnocytophaga.01" target="Ralstonia.01">
+<data key="key_weight">0.601566135883</data>
+</edge>
+<edge id="e132" source="Capnocytophaga.01" target="Kingella.01">
+<data key="key_weight">0.601566135883</data>
+</edge>
+<edge id="e133" source="Capnocytophaga.01" target="Neisseria.01">
+<data key="key_weight">0.548724889755</data>
+</edge>
+<edge id="e134" source="Capnocytophaga.01" target="Aggregatibacter.01">
+<data key="key_weight">0.833554446697</data>
+</edge>
+<edge id="e135" source="Capnocytophaga.01" target="Ignatzschineria.01">
+<data key="key_weight">0.55143558979</data>
+</edge>
+<edge id="e136" source="Capnocytophaga.01" target="Treponema.01">
+<data key="key_weight">0.601566135883</data>
+</edge>
+<edge id="e137" source="Bacillus.01" target="HMDB00045">
+<data key="key_weight">0.533208608627</data>
+</edge>
+<edge id="e138" source="Bacillus.01" target="HMDB00099">
+<data key="key_weight">-0.612359762192</data>
+</edge>
+<edge id="e139" source="Bacillus.01" target="HMDB00707">
+<data key="key_weight">-0.576066076756</data>
+</edge>
+<edge id="e140" source="Staphylococcus.01" target="Moryella.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e141" source="Staphylococcus.01" target="Megamonas.01">
+<data key="key_weight">1.0</data>
+</edge>
+<edge id="e142" source="Staphylococcus.01" target="Succiniclasticum.01">
+<data key="key_weight">1.0</data>
+</edge>
+<edge id="e143" source="Staphylococcus.01" target="Peptoniphilus.01">
+<data key="key_weight">0.66154718399</data>
+</edge>
+<edge id="e144" source="Staphylococcus.01" target="WAL_1855D.01">
+<data key="key_weight">0.601566135883</data>
+</edge>
+<edge id="e145" source="Staphylococcus.01" target="Anaerorhabdus.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e146" source="Staphylococcus.01" target="HMDB00045">
+<data key="key_weight">0.515676021576</data>
+</edge>
+<edge id="e147" source="Staphylococcus.01" target="HMDB00696">
+<data key="key_weight">-0.518815517426</data>
+</edge>
+<edge id="e148" source="Enterococcus.02" target="Sphingomonas.01">
+<data key="key_weight">0.531995177269</data>
+</edge>
+<edge id="e149" source="Enterococcus.02" target="Ignatzschineria.01">
+<data key="key_weight">0.531995177269</data>
+</edge>
+<edge id="e150" source="Enterococcus.02" target="HMDB00045">
+<data key="key_weight">0.521120786667</data>
+</edge>
+<edge id="e151" source="Leuconostoc.01" target="Weissella.01">
+<data key="key_weight">0.66154718399</data>
+</edge>
+<edge id="e152" source="Leuconostoc.01" target="Sphingomonas.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e153" source="Leuconostoc.01" target="Ignatzschineria.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e154" source="Leuconostoc.01" target="TG5.01">
+<data key="key_weight">0.66154718399</data>
+</edge>
+<edge id="e155" source="Weissella.01" target="Helicobacter.01">
+<data key="key_weight">0.66154718399</data>
+</edge>
+<edge id="e156" source="Weissella.01" target="TG5.01">
+<data key="key_weight">1.0</data>
+</edge>
+<edge id="e157" source="Lactococcus.01" target="Dehalobacterium.01">
+<data key="key_weight">0.543967604637</data>
+</edge>
+<edge id="e158" source="Lactococcus.01" target="Anaerorhabdus.01">
+<data key="key_weight">0.571404457092</data>
+</edge>
+<edge id="e159" source="Streptococcus.01" target="Veillonella.01">
+<data key="key_weight">0.638333797455</data>
+</edge>
+<edge id="e160" source="Streptococcus.01" target="Mogibacterium.01">
+<data key="key_weight">-0.545820534229</data>
+</edge>
+<edge id="e161" source="Streptococcus.01" target="p.75.a5.01">
+<data key="key_weight">-0.515338003635</data>
+</edge>
+<edge id="e162" source="Christensenella.01" target="Desulfovibrio.01">
+<data key="key_weight">0.578254163265</data>
+</edge>
+<edge id="e163" source="Clostridium.01" target="Campylobacter.01">
+<data key="key_weight">0.530587553978</data>
+</edge>
+<edge id="e164" source="Dehalobacterium.01" target="Oscillospira.01">
+<data key="key_weight">0.701890051365</data>
+</edge>
+<edge id="e165" source="Dehalobacterium.01" target="Victivallis.01">
+<data key="key_weight">0.703441739082</data>
+</edge>
+<edge id="e166" source="Dehalobacterium.01" target="Desulfovibrio.01">
+<data key="key_weight">0.652813076973</data>
+</edge>
+<edge id="e167" source="Dehalobacterium.01" target="Haemophilus.01">
+<data key="key_weight">-0.51192599535</data>
+</edge>
+<edge id="e168" source="Anaerofustis.01" target="Sphingomonas.01">
+<data key="key_weight">0.531995177269</data>
+</edge>
+<edge id="e169" source="Anaerofustis.01" target="Ignatzschineria.01">
+<data key="key_weight">0.531995177269</data>
+</edge>
+<edge id="e170" source="Butyrivibrio.01" target="Oribacterium.01">
+<data key="key_weight">0.612658083439</data>
+</edge>
+<edge id="e171" source="Butyrivibrio.01" target="Anaerovibrio.01">
+<data key="key_weight">0.996527791023</data>
+</edge>
+<edge id="e172" source="Butyrivibrio.01" target="Bulleidia.01">
+<data key="key_weight">0.509228587151</data>
+</edge>
+<edge id="e173" source="Butyrivibrio.01" target="RFN20.01">
+<data key="key_weight">0.601937532425</data>
+</edge>
+<edge id="e174" source="Butyrivibrio.01" target="p.75.a5.01">
+<data key="key_weight">0.798822999001</data>
+</edge>
+<edge id="e175" source="Butyrivibrio.01" target="Campylobacter.01">
+<data key="key_weight">0.507545948029</data>
+</edge>
+<edge id="e176" source="Butyrivibrio.01" target="Succinivibrio.01">
+<data key="key_weight">0.734594583511</data>
+</edge>
+<edge id="e177" source="Butyrivibrio.01" target="Cardiobacterium.01">
+<data key="key_weight">0.66154718399</data>
+</edge>
+<edge id="e178" source="Clostridium.02" target="Catenibacterium.01">
+<data key="key_weight">-0.638868331909</data>
+</edge>
+<edge id="e179" source="Clostridium.02" target="Holdemania.01">
+<data key="key_weight">0.548584282398</data>
+</edge>
+<edge id="e180" source="Clostridium.02" target="HMDB00161">
+<data key="key_weight">-0.523167490959</data>
+</edge>
+<edge id="e181" source="Clostridium.02" target="HMDB00707">
+<data key="key_weight">-0.638183414936</data>
+</edge>
+<edge id="e182" source="Lachnoanaerobaculum.01" target="Moryella.01">
+<data key="key_weight">0.66154718399</data>
+</edge>
+<edge id="e183" source="Lachnoanaerobaculum.01" target="Peptostreptococcus.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e184" source="Lachnoanaerobaculum.01" target="Selenomonas.01">
+<data key="key_weight">0.531995177269</data>
+</edge>
+<edge id="e185" source="Lachnoanaerobaculum.01" target="Parvimonas.01">
+<data key="key_weight">1.0</data>
+</edge>
+<edge id="e186" source="Lachnoanaerobaculum.01" target="Ralstonia.01">
+<data key="key_weight">1.0</data>
+</edge>
+<edge id="e187" source="Lachnoanaerobaculum.01" target="Kingella.01">
+<data key="key_weight">1.0</data>
+</edge>
+<edge id="e188" source="Lachnoanaerobaculum.01" target="Aggregatibacter.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e189" source="Lachnoanaerobaculum.01" target="Treponema.01">
+<data key="key_weight">1.0</data>
+</edge>
+<edge id="e190" source="Lachnoanaerobaculum.01" target="Cloacibacillus.01">
+<data key="key_weight">0.66154718399</data>
+</edge>
+<edge id="e191" source="Lachnobacterium.01" target="RFN20.01">
+<data key="key_weight">0.515495896339</data>
+</edge>
+<edge id="e192" source="Lachnobacterium.01" target="Pyramidobacter.01">
+<data key="key_weight">-0.604194581509</data>
+</edge>
+<edge id="e193" source="Moryella.01" target="Megamonas.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e194" source="Moryella.01" target="Succiniclasticum.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e195" source="Moryella.01" target="Parvimonas.01">
+<data key="key_weight">0.66154718399</data>
+</edge>
+<edge id="e196" source="Moryella.01" target="Ralstonia.01">
+<data key="key_weight">0.66154718399</data>
+</edge>
+<edge id="e197" source="Moryella.01" target="Kingella.01">
+<data key="key_weight">0.66154718399</data>
+</edge>
+<edge id="e198" source="Moryella.01" target="Treponema.01">
+<data key="key_weight">0.66154718399</data>
+</edge>
+<edge id="e199" source="Oribacterium.01" target="Anaerovibrio.01">
+<data key="key_weight">0.614996492863</data>
+</edge>
+<edge id="e200" source="Oribacterium.01" target="p.75.a5.01">
+<data key="key_weight">0.728991508484</data>
+</edge>
+<edge id="e201" source="Oribacterium.01" target="Sutterella.01">
+<data key="key_weight">-0.666559815407</data>
+</edge>
+<edge id="e202" source="Oribacterium.01" target="Succinivibrio.01">
+<data key="key_weight">0.608485043049</data>
+</edge>
+<edge id="e203" source="Shuttleworthia.01" target="X1.68.01">
+<data key="key_weight">1.0</data>
+</edge>
+<edge id="e204" source="Shuttleworthia.01" target="Finegoldia.01">
+<data key="key_weight">1.0</data>
+</edge>
+<edge id="e205" source="Shuttleworthia.01" target="Peptoniphilus.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e206" source="Shuttleworthia.01" target="WAL_1855D.01">
+<data key="key_weight">0.55143558979</data>
+</edge>
+<edge id="e207" source="Shuttleworthia.01" target="Sneathia.01">
+<data key="key_weight">0.531995177269</data>
+</edge>
+<edge id="e208" source="Shuttleworthia.01" target="Mycoplasma.01">
+<data key="key_weight">1.0</data>
+</edge>
+<edge id="e209" source="X.Ruminococcus..01" target="Catenibacterium.01">
+<data key="key_weight">-0.629475653172</data>
+</edge>
+<edge id="e210" source="X.Ruminococcus..01" target="Clostridium.04">
+<data key="key_weight">0.732213914394</data>
+</edge>
+<edge id="e211" source="X.Ruminococcus..01" target="Coprobacillus.01">
+<data key="key_weight">0.581393539906</data>
+</edge>
+<edge id="e212" source="X.Ruminococcus..01" target="Succinivibrio.01">
+<data key="key_weight">-0.52164888382</data>
+</edge>
+<edge id="e213" source="Peptococcus.01" target="Mogibacterium.01">
+<data key="key_weight">0.525295376778</data>
+</edge>
+<edge id="e214" source="Peptococcus.01" target="Sutterella.01">
+<data key="key_weight">-0.548219323158</data>
+</edge>
+<edge id="e215" source="Peptococcus.01" target="HMDB00243">
+<data key="key_weight">0.560312151909</data>
+</edge>
+<edge id="e216" source="Peptostreptococcus.01" target="Parvimonas.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e217" source="Peptostreptococcus.01" target="Ralstonia.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e218" source="Peptostreptococcus.01" target="Kingella.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e219" source="Peptostreptococcus.01" target="Treponema.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e220" source="Butyricicoccus.01" target="Mogibacterium.01">
+<data key="key_weight">0.554421007633</data>
+</edge>
+<edge id="e221" source="Butyricicoccus.01" target="Brachyspira.01">
+<data key="key_weight">0.507781386375</data>
+</edge>
+<edge id="e222" source="Clostridium.03" target="HMDB00045">
+<data key="key_weight">0.569612562656</data>
+</edge>
+<edge id="e223" source="Clostridium.03" target="HMDB00707">
+<data key="key_weight">-0.526804864407</data>
+</edge>
+<edge id="e224" source="Gemmiger.01" target="Catenibacterium.01">
+<data key="key_weight">0.548994123936</data>
+</edge>
+<edge id="e225" source="Oscillospira.01" target="Victivallis.01">
+<data key="key_weight">0.776364684105</data>
+</edge>
+<edge id="e226" source="Ruminococcus.01" target="cc_115.01">
+<data key="key_weight">0.51428592205</data>
+</edge>
+<edge id="e227" source="Acidaminococcus.01" target="Victivallis.01">
+<data key="key_weight">-0.526778817177</data>
+</edge>
+<edge id="e228" source="Anaerovibrio.01" target="Bulleidia.01">
+<data key="key_weight">0.505538523197</data>
+</edge>
+<edge id="e229" source="Anaerovibrio.01" target="RFN20.01">
+<data key="key_weight">0.59757566452</data>
+</edge>
+<edge id="e230" source="Anaerovibrio.01" target="p.75.a5.01">
+<data key="key_weight">0.793034434319</data>
+</edge>
+<edge id="e231" source="Anaerovibrio.01" target="Campylobacter.01">
+<data key="key_weight">0.505783617496</data>
+</edge>
+<edge id="e232" source="Anaerovibrio.01" target="Succinivibrio.01">
+<data key="key_weight">0.737154126167</data>
+</edge>
+<edge id="e233" source="Anaerovibrio.01" target="Cardiobacterium.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e234" source="Megamonas.01" target="Succiniclasticum.01">
+<data key="key_weight">1.0</data>
+</edge>
+<edge id="e235" source="Megamonas.01" target="Peptoniphilus.01">
+<data key="key_weight">0.66154718399</data>
+</edge>
+<edge id="e236" source="Megamonas.01" target="WAL_1855D.01">
+<data key="key_weight">0.601566135883</data>
+</edge>
+<edge id="e237" source="Megamonas.01" target="Anaerorhabdus.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e238" source="Selenomonas.01" target="Veillonella.01">
+<data key="key_weight">0.55994862318</data>
+</edge>
+<edge id="e239" source="Selenomonas.01" target="Parvimonas.01">
+<data key="key_weight">0.531995177269</data>
+</edge>
+<edge id="e240" source="Selenomonas.01" target="Fusobacterium.01">
+<data key="key_weight">0.705170989037</data>
+</edge>
+<edge id="e241" source="Selenomonas.01" target="Ralstonia.01">
+<data key="key_weight">0.531995177269</data>
+</edge>
+<edge id="e242" source="Selenomonas.01" target="Kingella.01">
+<data key="key_weight">0.531995177269</data>
+</edge>
+<edge id="e243" source="Selenomonas.01" target="Aggregatibacter.01">
+<data key="key_weight">0.737154126167</data>
+</edge>
+<edge id="e244" source="Selenomonas.01" target="Treponema.01">
+<data key="key_weight">0.531995177269</data>
+</edge>
+<edge id="e245" source="Succiniclasticum.01" target="Peptoniphilus.01">
+<data key="key_weight">0.66154718399</data>
+</edge>
+<edge id="e246" source="Succiniclasticum.01" target="WAL_1855D.01">
+<data key="key_weight">0.601566135883</data>
+</edge>
+<edge id="e247" source="Succiniclasticum.01" target="Anaerorhabdus.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e248" source="Veillonella.01" target="Fusobacterium.01">
+<data key="key_weight">0.568368554115</data>
+</edge>
+<edge id="e249" source="Veillonella.01" target="Haemophilus.01">
+<data key="key_weight">0.637912213802</data>
+</edge>
+<edge id="e250" source="Veillonella.01" target="HMDB00060">
+<data key="key_weight">0.524451315403</data>
+</edge>
+<edge id="e251" source="Mogibacterium.01" target="Haemophilus.01">
+<data key="key_weight">-0.514632582664</data>
+</edge>
+<edge id="e252" source="X1.68.01" target="Finegoldia.01">
+<data key="key_weight">1.0</data>
+</edge>
+<edge id="e253" source="X1.68.01" target="Peptoniphilus.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e254" source="X1.68.01" target="WAL_1855D.01">
+<data key="key_weight">0.55143558979</data>
+</edge>
+<edge id="e255" source="X1.68.01" target="Sneathia.01">
+<data key="key_weight">0.531995177269</data>
+</edge>
+<edge id="e256" source="X1.68.01" target="Mycoplasma.01">
+<data key="key_weight">1.0</data>
+</edge>
+<edge id="e257" source="Finegoldia.01" target="Peptoniphilus.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e258" source="Finegoldia.01" target="WAL_1855D.01">
+<data key="key_weight">0.55143558979</data>
+</edge>
+<edge id="e259" source="Finegoldia.01" target="Sneathia.01">
+<data key="key_weight">0.531995177269</data>
+</edge>
+<edge id="e260" source="Finegoldia.01" target="Mycoplasma.01">
+<data key="key_weight">1.0</data>
+</edge>
+<edge id="e261" source="Parvimonas.01" target="Ralstonia.01">
+<data key="key_weight">1.0</data>
+</edge>
+<edge id="e262" source="Parvimonas.01" target="Kingella.01">
+<data key="key_weight">1.0</data>
+</edge>
+<edge id="e263" source="Parvimonas.01" target="Aggregatibacter.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e264" source="Parvimonas.01" target="Treponema.01">
+<data key="key_weight">1.0</data>
+</edge>
+<edge id="e265" source="Parvimonas.01" target="Cloacibacillus.01">
+<data key="key_weight">0.66154718399</data>
+</edge>
+<edge id="e266" source="Peptoniphilus.01" target="WAL_1855D.01">
+<data key="key_weight">0.830660164356</data>
+</edge>
+<edge id="e267" source="Peptoniphilus.01" target="Sneathia.01">
+<data key="key_weight">0.737154126167</data>
+</edge>
+<edge id="e268" source="Peptoniphilus.01" target="Mycoplasma.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e269" source="WAL_1855D.01" target="Sneathia.01">
+<data key="key_weight">0.587788939476</data>
+</edge>
+<edge id="e270" source="WAL_1855D.01" target="Mycoplasma.01">
+<data key="key_weight">0.55143558979</data>
+</edge>
+<edge id="e271" source="Bulleidia.01" target="p.75.a5.01">
+<data key="key_weight">0.560576856136</data>
+</edge>
+<edge id="e272" source="Catenibacterium.01" target="Clostridium.04">
+<data key="key_weight">-0.550561785698</data>
+</edge>
+<edge id="e273" source="Clostridium.04" target="Coprobacillus.01">
+<data key="key_weight">0.598770678043</data>
+</edge>
+<edge id="e274" source="Clostridium.04" target="HMDB00206">
+<data key="key_weight">-0.514368355274</data>
+</edge>
+<edge id="e275" source="Coprobacillus.01" target="cc_115.01">
+<data key="key_weight">0.713130950928</data>
+</edge>
+<edge id="e276" source="Holdemania.01" target="Victivallis.01">
+<data key="key_weight">-0.536171019077</data>
+</edge>
+<edge id="e277" source="RFN20.01" target="p.75.a5.01">
+<data key="key_weight">0.708082318306</data>
+</edge>
+<edge id="e278" source="RFN20.01" target="Sutterella.01">
+<data key="key_weight">-0.519005060196</data>
+</edge>
+<edge id="e279" source="RFN20.01" target="Succinivibrio.01">
+<data key="key_weight">0.577158510685</data>
+</edge>
+<edge id="e280" source="p.75.a5.01" target="Sutterella.01">
+<data key="key_weight">-0.548422753811</data>
+</edge>
+<edge id="e281" source="p.75.a5.01" target="Succinivibrio.01">
+<data key="key_weight">0.851280510426</data>
+</edge>
+<edge id="e282" source="p.75.a5.01" target="Brachyspira.01">
+<data key="key_weight">0.590470433235</data>
+</edge>
+<edge id="e283" source="Fusobacterium.01" target="Leptotrichia.01">
+<data key="key_weight">0.533450841904</data>
+</edge>
+<edge id="e284" source="Fusobacterium.01" target="Neisseria.01">
+<data key="key_weight">0.56314265728</data>
+</edge>
+<edge id="e285" source="Fusobacterium.01" target="Haemophilus.01">
+<data key="key_weight">0.573996782303</data>
+</edge>
+<edge id="e286" source="Leptotrichia.01" target="Neisseria.01">
+<data key="key_weight">0.576770722866</data>
+</edge>
+<edge id="e287" source="Sneathia.01" target="Mycoplasma.01">
+<data key="key_weight">0.531995177269</data>
+</edge>
+<edge id="e288" source="Paracoccus.01" target="HMDB00045">
+<data key="key_weight">0.533208608627</data>
+</edge>
+<edge id="e289" source="Sphingomonas.01" target="Aggregatibacter.01">
+<data key="key_weight">0.66154718399</data>
+</edge>
+<edge id="e290" source="Sphingomonas.01" target="Ignatzschineria.01">
+<data key="key_weight">1.0</data>
+</edge>
+<edge id="e291" source="Achromobacter.01" target="HMDB00045">
+<data key="key_weight">0.533208608627</data>
+</edge>
+<edge id="e292" source="Achromobacter.01" target="HMDB00707">
+<data key="key_weight">-0.576066076756</data>
+</edge>
+<edge id="e293" source="Ralstonia.01" target="Kingella.01">
+<data key="key_weight">1.0</data>
+</edge>
+<edge id="e294" source="Ralstonia.01" target="Aggregatibacter.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e295" source="Ralstonia.01" target="Treponema.01">
+<data key="key_weight">1.0</data>
+</edge>
+<edge id="e296" source="Ralstonia.01" target="Cloacibacillus.01">
+<data key="key_weight">0.66154718399</data>
+</edge>
+<edge id="e297" source="Ralstonia.01" target="HMDB00045">
+<data key="key_weight">0.533208608627</data>
+</edge>
+<edge id="e298" source="Kingella.01" target="Aggregatibacter.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e299" source="Kingella.01" target="Treponema.01">
+<data key="key_weight">1.0</data>
+</edge>
+<edge id="e300" source="Kingella.01" target="Cloacibacillus.01">
+<data key="key_weight">0.66154718399</data>
+</edge>
+<edge id="e301" source="Neisseria.01" target="Haemophilus.01">
+<data key="key_weight">0.670720517635</data>
+</edge>
+<edge id="e302" source="Bilophila.01" target="HMDB00243">
+<data key="key_weight">-0.573385059834</data>
+</edge>
+<edge id="e303" source="Desulfovibrio.01" target="HMDB00208">
+<data key="key_weight">0.648320257664</data>
+</edge>
+<edge id="e304" source="Desulfovibrio.01" target="HMDB00243">
+<data key="key_weight">0.635661959648</data>
+</edge>
+<edge id="e305" source="Helicobacter.01" target="TG5.01">
+<data key="key_weight">0.66154718399</data>
+</edge>
+<edge id="e306" source="Helicobacter.01" target="HMDB00099">
+<data key="key_weight">-0.510804891586</data>
+</edge>
+<edge id="e307" source="Succinivibrio.01" target="Cardiobacterium.01">
+<data key="key_weight">0.531995177269</data>
+</edge>
+<edge id="e308" source="Aggregatibacter.01" target="Ignatzschineria.01">
+<data key="key_weight">0.66154718399</data>
+</edge>
+<edge id="e309" source="Aggregatibacter.01" target="Treponema.01">
+<data key="key_weight">0.721687853336</data>
+</edge>
+<edge id="e310" source="Pseudomonas.01" target="HMDB00045">
+<data key="key_weight">0.538864374161</data>
+</edge>
+<edge id="e311" source="Pseudomonas.01" target="HMDB00707">
+<data key="key_weight">-0.588623464108</data>
+</edge>
+<edge id="e312" source="Treponema.01" target="Cloacibacillus.01">
+<data key="key_weight">0.66154718399</data>
+</edge>
+<edge id="e313" source="Brachyspira.01" target="Synergistes.01">
+<data key="key_weight">0.513115227222</data>
+</edge>
+<edge id="e314" source="HMDB00036" target="HMDB00138">
+<data key="key_weight">0.858693659306</data>
+</edge>
+<edge id="e315" source="HMDB00036" target="HMDB00637">
+<data key="key_weight">0.832438647747</data>
+</edge>
+<edge id="e316" source="HMDB00036" target="HMDB00951">
+<data key="key_weight">0.942091941833</data>
+</edge>
+<edge id="e317" source="HMDB00045" target="HMDB00175">
+<data key="key_weight">0.661538481712</data>
+</edge>
+<edge id="e318" source="HMDB00045" target="HMDB00251">
+<data key="key_weight">0.543846130371</data>
+</edge>
+<edge id="e319" source="HMDB00045" target="HMDB01341">
+<data key="key_weight">0.764005899429</data>
+</edge>
+<edge id="e320" source="HMDB00045" target="HMDB01406">
+<data key="key_weight">0.565384626389</data>
+</edge>
+<edge id="e321" source="HMDB00060" target="HMDB00161">
+<data key="key_weight">-0.690129756927</data>
+</edge>
+<edge id="e322" source="HMDB00060" target="HMDB00357">
+<data key="key_weight">0.797133028507</data>
+</edge>
+<edge id="e323" source="HMDB00076" target="HMDB00300">
+<data key="key_weight">0.653579890728</data>
+</edge>
+<edge id="e324" source="HMDB00078" target="HMDB00574">
+<data key="key_weight">0.705384612083</data>
+</edge>
+<edge id="e325" source="HMDB00099" target="HMDB00696">
+<data key="key_weight">0.548461556435</data>
+</edge>
+<edge id="e326" source="HMDB00123" target="HMDB00167">
+<data key="key_weight">0.550000011921</data>
+</edge>
+<edge id="e327" source="HMDB00123" target="HMDB00187">
+<data key="key_weight">0.578461527824</data>
+</edge>
+<edge id="e328" source="HMDB00123" target="HMDB00641">
+<data key="key_weight">0.607692301273</data>
+</edge>
+<edge id="e329" source="HMDB00123" target="HMDB00696">
+<data key="key_weight">0.570769250393</data>
+</edge>
+<edge id="e330" source="HMDB00134" target="HMDB00156">
+<data key="key_weight">0.931538462639</data>
+</edge>
+<edge id="e331" source="HMDB00134" target="HMDB00176">
+<data key="key_weight">0.541538476944</data>
+</edge>
+<edge id="e332" source="HMDB00134" target="HMDB00208">
+<data key="key_weight">0.716153860092</data>
+</edge>
+<edge id="e333" source="HMDB00134" target="HMDB00254">
+<data key="key_weight">0.70692306757</data>
+</edge>
+<edge id="e334" source="HMDB00138" target="HMDB00637">
+<data key="key_weight">0.944615364075</data>
+</edge>
+<edge id="e335" source="HMDB00138" target="HMDB00951">
+<data key="key_weight">0.869230747223</data>
+</edge>
+<edge id="e336" source="HMDB00148" target="HMDB00191">
+<data key="key_weight">0.512307703495</data>
+</edge>
+<edge id="e337" source="HMDB00156" target="HMDB00208">
+<data key="key_weight">0.772307693958</data>
+</edge>
+<edge id="e338" source="HMDB00156" target="HMDB00254">
+<data key="key_weight">0.690769255161</data>
+</edge>
+<edge id="e339" source="HMDB00157" target="HMDB00195">
+<data key="key_weight">0.769230782986</data>
+</edge>
+<edge id="e340" source="HMDB00158" target="HMDB00161">
+<data key="key_weight">0.569999992847</data>
+</edge>
+<edge id="e341" source="HMDB00158" target="HMDB00696">
+<data key="key_weight">0.601538479328</data>
+</edge>
+<edge id="e342" source="HMDB00159" target="HMDB00205">
+<data key="key_weight">0.710769236088</data>
+</edge>
+<edge id="e343" source="HMDB00159" target="HMDB00641">
+<data key="key_weight">0.531538486481</data>
+</edge>
+<edge id="e344" source="HMDB00161" target="HMDB00182">
+<data key="key_weight">0.51846152544</data>
+</edge>
+<edge id="e345" source="HMDB00161" target="HMDB00243">
+<data key="key_weight">0.575384616852</data>
+</edge>
+<edge id="e346" source="HMDB00161" target="HMDB00641">
+<data key="key_weight">0.529230773449</data>
+</edge>
+<edge id="e347" source="HMDB00161" target="HMDB00696">
+<data key="key_weight">0.513846158981</data>
+</edge>
+<edge id="e348" source="HMDB00161" target="HMDB00939">
+<data key="key_weight">0.586923062801</data>
+</edge>
+<edge id="e349" source="HMDB00162" target="HMDB00641">
+<data key="key_weight">0.65230768919</data>
+</edge>
+<edge id="e350" source="HMDB00162" target="HMDB00883">
+<data key="key_weight">0.540000021458</data>
+</edge>
+<edge id="e351" source="HMDB00167" target="HMDB00182">
+<data key="key_weight">0.576153874397</data>
+</edge>
+<edge id="e352" source="HMDB00167" target="HMDB00187">
+<data key="key_weight">0.683076918125</data>
+</edge>
+<edge id="e353" source="HMDB00168" target="HMDB00187">
+<data key="key_weight">0.666153848171</data>
+</edge>
+<edge id="e354" source="HMDB00175" target="HMDB01341">
+<data key="key_weight">0.823639452457</data>
+</edge>
+<edge id="e355" source="HMDB00182" target="HMDB00187">
+<data key="key_weight">0.706153869629</data>
+</edge>
+<edge id="e356" source="HMDB00187" target="HMDB00641">
+<data key="key_weight">0.600769221783</data>
+</edge>
+<edge id="e357" source="HMDB00187" target="HMDB00696">
+<data key="key_weight">0.707692325115</data>
+</edge>
+<edge id="e358" source="HMDB00190" target="HMDB00243">
+<data key="key_weight">0.781538486481</data>
+</edge>
+<edge id="e359" source="HMDB00195" target="HMDB01341">
+<data key="key_weight">0.535152673721</data>
+</edge>
+<edge id="e360" source="HMDB00208" target="HMDB00243">
+<data key="key_weight">0.59769231081</data>
+</edge>
+<edge id="e361" source="HMDB00209" target="HMDB06344">
+<data key="key_weight">0.535102903843</data>
+</edge>
+<edge id="e362" source="HMDB00224" target="HMDB01341">
+<data key="key_weight">0.657130300999</data>
+</edge>
+<edge id="e363" source="HMDB00224" target="HMDB01565">
+<data key="key_weight">0.72000002861</data>
+</edge>
+<edge id="e364" source="HMDB00226" target="HMDB00254">
+<data key="key_weight">0.520769238472</data>
+</edge>
+<edge id="e365" source="HMDB00232" target="HMDB00684">
+<data key="key_weight">0.61615383625</data>
+</edge>
+<edge id="e366" source="HMDB00247" target="HMDB00625">
+<data key="key_weight">0.705384612083</data>
+</edge>
+<edge id="e367" source="HMDB00252" target="HMDB00277">
+<data key="key_weight">0.747692286968</data>
+</edge>
+<edge id="e368" source="HMDB00254" target="HMDB00939">
+<data key="key_weight">0.559230744839</data>
+</edge>
+<edge id="e369" source="HMDB00254" target="HMDB01123">
+<data key="key_weight">0.507900774479</data>
+</edge>
+<edge id="e370" source="HMDB00517" target="HMDB01301">
+<data key="key_weight">0.51153844595</data>
+</edge>
+<edge id="e371" source="HMDB00518" target="HMDB00619">
+<data key="key_weight">0.510769248009</data>
+</edge>
+<edge id="e372" source="HMDB00574" target="HMDB01448">
+<data key="key_weight">0.526923060417</data>
+</edge>
+<edge id="e373" source="HMDB00637" target="HMDB00951">
+<data key="key_weight">0.90230768919</data>
+</edge>
+<edge id="e374" source="HMDB00641" target="HMDB00696">
+<data key="key_weight">0.516923069954</data>
+</edge>
+<edge id="e375" source="HMDB00715" target="HMDB00881">
+<data key="key_weight">0.623846173286</data>
+</edge>
+<edge id="e376" source="HMDB00854" target="HMDB01212">
+<data key="key_weight">0.753076910973</data>
+</edge>
+<edge id="e377" source="HMDB01847" target="HMDB01860">
+<data key="key_weight">0.948708713055</data>
+</edge>
+<edge id="e378" source="HMDB01847" target="HMDB02825">
+<data key="key_weight">0.539749860764</data>
+</edge>
+<edge id="e379" source="HMDB01847" target="HMDB11103">
+<data key="key_weight">0.91679507494</data>
+</edge>
+<edge id="e380" source="HMDB01860" target="HMDB02825">
+<data key="key_weight">0.589709877968</data>
+</edge>
+<edge id="e381" source="HMDB01860" target="HMDB11103">
+<data key="key_weight">0.907058060169</data>
+</edge>
+<edge id="e382" source="HMDB01886" target="HMDB01889">
+<data key="key_weight">0.522810459137</data>
+</edge>
+<edge id="e383" source="HMDB01886" target="HMDB10738">
+<data key="key_weight">0.538949787617</data>
+</edge>
+<edge id="e384" source="HMDB01889" target="HMDB03099">
+<data key="key_weight">0.59199398756</data>
+</edge>
+<edge id="e385" source="HMDB01889" target="HMDB10738">
+<data key="key_weight">0.710546791553</data>
+</edge>
+<edge id="e386" source="HMDB01982" target="HMDB01991">
+<data key="key_weight">0.905696392059</data>
+</edge>
+<edge id="e387" source="HMDB01982" target="HMDB02825">
+<data key="key_weight">0.936975777149</data>
+</edge>
+<edge id="e388" source="HMDB01991" target="HMDB02825">
+<data key="key_weight">0.852574050426</data>
+</edge>
+<edge id="e389" source="HMDB02825" target="HMDB11103">
+<data key="key_weight">0.518960654736</data>
+</edge>
+<edge id="e390" source="HMDB03099" target="HMDB10738">
+<data key="key_weight">0.739230751991</data>
+</edge>
+<edge id="e391" source="HMDB03464" target="HMDB04225">
+<data key="key_weight">0.626923084259</data>
+</edge>

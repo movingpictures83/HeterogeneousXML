@@ -1,0 +1,4 @@
+folder	.
+nameOfNetwork	spearman.multiomics.merged.filtered.users.graphml
+abundances	abundance.multiomics.users.csv
+style	styleBase.xml
